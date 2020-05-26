@@ -1,0 +1,7 @@
+{
+  "name": "loja_nallubaby",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
